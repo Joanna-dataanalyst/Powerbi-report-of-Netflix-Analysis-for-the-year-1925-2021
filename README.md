@@ -1,7 +1,7 @@
 # Powerbi-report-of-Netflix-Analysis-for-the-year-1925-2021
 I’m uzoekwe onyinye, i want to share an interesting finding/analysis of Netflix company movies, and Tv shows that have been streamed from the year 1925-2021. 
 
-<img width="520" alt="netflix dashbord" src="https://github.com/user-attachments/assets/264eb839-328b-44c5-ab0d-edb03b027b61">
+![Netflix_Logo](https://github.com/user-attachments/assets/70e9e6ec-0017-4d44-b7ff-a639e44d9028)
 
 
 # Analysis 1
@@ -37,7 +37,7 @@ The data shows that movies far outnumbered Tv shows on Netflix
 # Analysis 2
 <img width="515" alt="genre" src="https://github.com/user-attachments/assets/00756c6f-8c36-4bc1-bb8d-91222fbd0b66">
 
-This data shows that drama and international movies dominates netflix's library, followed by documentaries which indicates Netflix commitment to offering diverse and global content while stand up comedy is third on the list which suggests and effort to attract viewers seeking entertainment.
+This data shows that drama and international movies dominates netflix's library, followed by documentaries which indicates Netflix commitment to offering diverse and global content while stand up comedy is third on the list which suggests an effort to attract viewers seeking entertainment.
  
 
 # Analysis 3
@@ -48,7 +48,7 @@ This data shows that Tv-MA (Mature audience) contents dominates the platform, wh
 # Analysis 4
 <img width="523" alt="by country" src="https://github.com/user-attachments/assets/24b66f61-f45a-49ff-9881-ed98ee7e6dbb">
 
-Netflix's content is heavily concentrated in North America and Europe.
+According to the map visual, Netflix's content is heavily concentrated in North America (USA)with about 2817 show id and india with 972 show id. Followed by the united kingdom with 419 show id.
 
 # Analysis 5
 <img width="521" alt="release year" src="https://github.com/user-attachments/assets/f7da6961-7053-4d74-8fd2-efec78ace92d">
